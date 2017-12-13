@@ -1,0 +1,3 @@
+* Haskell University Solutions
+
+  This repository hosts my solutions of the [[git@github.com:pixeldrama/haskell-university-solutions.git][Haskell University]].
